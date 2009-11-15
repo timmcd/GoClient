@@ -1,0 +1,8 @@
+Directions:
+'make all'
+You can also:
+'make clean' to delete all files for a fresh make.
+
+Usage:
+./GoClient aardmud.org:4000
+./GoClient host:port
